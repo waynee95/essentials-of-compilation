@@ -1,21 +1,10 @@
 cabal-version:       >=1.10
--- Initial package description 'essentials-of-compilation.cabal' generated
--- by 'cabal init'.  For further documentation, see
--- http://haskell.org/cabal/users-guide/
-
 name:                essentials-of-compilation
 version:             0.1.0.0
--- synopsis:
--- description:
--- bug-reports:
--- license:
 license-file:        LICENSE
 author:              waynee95
 maintainer:          larsericmarquardt@mail.de
--- copyright:
--- category:
 build-type:          Simple
-extra-source-files:  CHANGELOG.md
 
 executable essentials-of-compilation
   main-is:             Main.hs
